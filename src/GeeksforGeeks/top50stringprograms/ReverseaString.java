@@ -10,6 +10,7 @@ public class ReverseaString {
         {
             str2=str2+str.charAt(i);
         }
+
         System.out.println(str2);
     }
 }
